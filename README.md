@@ -1,5 +1,5 @@
 # Trabajo practico semestral de data science
-Este espacio corresponde al trabajo semestral de Diego Rojas y Benjamín Pinto
+Este espacio corresponde al trabajo semestral de Diego Rojas y Benjamín Pinto. Se presenta el plan del trabajo y los avances de este.
 
 
 ## Contenidos
