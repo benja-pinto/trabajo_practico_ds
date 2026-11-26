@@ -1,4 +1,4 @@
-# trabajo_practico_ds
+# Trabajo practico semestral de data science
 Este espacio corresponde al trabajo semestral de Diego Rojas y Benjamín Pinto
 
 ## Limpieza y procesamiento de datos de la estación meteorologica Quinta Normal
